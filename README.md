@@ -18,12 +18,6 @@ conda activate venv
 pip install -r requirements.txt
 ```
 
-4. Run the Streamlit app by executing the following command:
-
-```bash
-streamlit run dashboard/dashboard.py
-```
-
 ## Running the App
 
 To run the Streamlit app, execute the following command:
